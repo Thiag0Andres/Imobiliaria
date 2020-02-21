@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\arthur niodizeo\documents\imobiliariac++\main.cpp
+	<iostream>
+
+1565981574 source:c:\users\arthur niodizeo\documents\imobiliariac++\src\apartamento.cpp
+	"Imovel.h"
+	<iostream>
+	"Apartamento.h"
+
+1565981859 c:\users\arthur niodizeo\documents\imobiliariac++\include\imovel.h
+	"Endereco.h"
+	<iostream>
+	<sstream>
+
+1565975852 c:\users\arthur niodizeo\documents\imobiliariac++\include\endereco.h
+	<iostream>
+
+1565975852 c:\users\arthur niodizeo\documents\imobiliariac++\include\apartamento.h
+	"Imovel.h"
+
+1565981574 source:c:\users\arthur niodizeo\documents\imobiliariac++\src\casa.cpp
+	<iostream>
+	"Casa.h"
+	"Terreno.h"
+
+1565975852 c:\users\arthur niodizeo\documents\imobiliariac++\include\casa.h
+	"Imovel.h"
+	<iostream>
+
+1565975852 c:\users\arthur niodizeo\documents\imobiliariac++\include\terreno.h
+	"Imovel.h"
+
+1565975852 source:c:\users\arthur niodizeo\documents\imobiliariac++\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1565981574 source:c:\users\arthur niodizeo\documents\imobiliariac++\src\imovel.cpp
+	"Imovel.h"
+	<iostream>
+
+1565981574 source:c:\users\arthur niodizeo\documents\imobiliariac++\src\terreno.cpp
+	"Imovel.h"
+	<iostream>
+	"Terreno.h"
+
+1566354103 source:c:\users\pablo\desktop\imobiliariac++\main.cpp
+	"SistemaImobiliaria.h"
+	"Menu.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"GerenteDePersistencia.h"
+
+1566004524 source:c:\users\pablo\desktop\imobiliariac++\src\apartamento.cpp
+	"Imovel.h"
+	<iostream>
+	"Apartamento.h"
+
+1566004524 c:\users\pablo\desktop\imobiliariac++\include\imovel.h
+	"Endereco.h"
+	<iostream>
+	<sstream>
+
+1566004524 c:\users\pablo\desktop\imobiliariac++\include\endereco.h
+	<iostream>
+
+1566004524 c:\users\pablo\desktop\imobiliariac++\include\apartamento.h
+	"Imovel.h"
+
+1566004524 source:c:\users\pablo\desktop\imobiliariac++\src\casa.cpp
+	<iostream>
+	"Casa.h"
+	"Terreno.h"
+
+1566004524 c:\users\pablo\desktop\imobiliariac++\include\casa.h
+	"Imovel.h"
+	<iostream>
+
+1566004524 c:\users\pablo\desktop\imobiliariac++\include\terreno.h
+	"Imovel.h"
+
+1566004524 source:c:\users\pablo\desktop\imobiliariac++\src\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1566004524 source:c:\users\pablo\desktop\imobiliariac++\src\imovel.cpp
+	"Imovel.h"
+	<iostream>
+
+1566004524 source:c:\users\pablo\desktop\imobiliariac++\src\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+
+1566095004 c:\users\pablo\desktop\imobiliariac++\include\sistemaimobiliaria.h
+	"Imovel.h"
+	<list>
+
+1566004524 source:c:\users\pablo\desktop\imobiliariac++\src\terreno.cpp
+	"Imovel.h"
+	<iostream>
+	"Terreno.h"
+
+1566004524 c:\users\pablo\desktop\imobiliariac++\include\menu.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1566096316 source:c:\users\pablo\desktop\imobiliariac++\src\gerentedepersistencia.cpp
+	"GerenteDePersistencia.h"
+
+1566096380 c:\users\pablo\desktop\imobiliariac++\include\gerentedepersistencia.h
+	"SistemaImobiliaria.h"
+	<list>
+	<fstream>
+
+1566344180 c:\users\pablo\desktop\imobiliariac++\sistemaimobiliaria.h
+	"Imovel.h"
+	<list>
+
+1566344135 c:\users\pablo\desktop\imobiliariac++\imovel.h
+	"Endereco.h"
+	<iostream>
+	<sstream>
+	<stdio.h>
+
+1565975205 c:\users\pablo\desktop\imobiliariac++\endereco.h
+	<iostream>
+
+1566354180 c:\users\pablo\desktop\imobiliariac++\menu.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1566275997 c:\users\pablo\desktop\imobiliariac++\casa.h
+	"Imovel.h"
+	<iostream>
+
+1566344135 c:\users\pablo\desktop\imobiliariac++\apartamento.h
+	"Imovel.h"
+
+1566275997 c:\users\pablo\desktop\imobiliariac++\terreno.h
+	"Imovel.h"
+
+1566344152 source:c:\users\pablo\desktop\imobiliariac++\apartamento.cpp
+	"Imovel.h"
+	<iostream>
+	"Apartamento.h"
+
+1566344050 source:c:\users\pablo\desktop\imobiliariac++\casa.cpp
+	<iostream>
+	"Casa.h"
+	"Terreno.h"
+
+1566344021 source:c:\users\pablo\desktop\imobiliariac++\endereco.cpp
+	"Endereco.h"
+	<iostream>
+
+1566353522 source:c:\users\pablo\desktop\imobiliariac++\gerentedepersistencia.cpp
+	"Imovel.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Casa.h"
+	"SistemaImobiliaria.h"
+	"GerenteDePersistencia.h"
+	<fstream>
+
+1566353844 c:\users\pablo\desktop\imobiliariac++\gerentedepersistencia.h
+	"SistemaImobiliaria.h"
+	<list>
+
+1566343990 source:c:\users\pablo\desktop\imobiliariac++\imovel.cpp
+	"Imovel.h"
+	<iostream>
+
+1566354164 source:c:\users\pablo\desktop\imobiliariac++\menu.cpp
+	"Menu.h"
+
+1566343944 source:c:\users\pablo\desktop\imobiliariac++\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+	<bits/stdc++.h>
+
+1566344467 source:c:\users\pablo\desktop\imobiliariac++\terreno.cpp
+	"Imovel.h"
+	<iostream>
+	"Terreno.h"
+
